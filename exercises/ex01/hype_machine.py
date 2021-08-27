@@ -5,4 +5,4 @@ __author__ = "730232764"
 name: str = input("What is your name? ")
 print(name + ", you are the GOAT!") 
 print("Seize the day " + name + ".") 
-print("Hey " + name + ", get that bread!")
+print("Hey " + name + ", get that bread!") 
